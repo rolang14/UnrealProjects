@@ -1,0 +1,5 @@
+
+#pragma once
+
+#define CUSTOM_DEPTH_RED_OUTLINE 250
+#define CUSTOM_DEPTH_NONE 0
